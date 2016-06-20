@@ -1,8 +1,0 @@
-number
-one
-two
-three
-1
-2
-3
-count

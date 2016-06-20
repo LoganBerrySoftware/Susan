@@ -12,6 +12,6 @@ Susan was look for key words that you type in and, if the user's input contains 
 Feel free to modify Susan's code and upload your new and improved version to this repository by creating a a new branch. You can either fix a bug, add a new feature or add words and phrases to Susan's database.
 
 #Credit
-Everything (so far) made by Logan Miller
-Voice from http://www.acapela-group.com/
-Keywords in /topicInputs/47.txt from Google's rude word filtered (some have been removed)
+- Everything (so far) made by Logan Miller. Check out more of my projects at http://loganberry.pe.hu
+- Voice from http://www.acapela-group.com/
+- Keywords in /topicInputs/47.txt from Google's rude word filtered (some have been removed)

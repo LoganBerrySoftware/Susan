@@ -1,5 +1,0 @@
-orange
-fruit
-colour
-color
-round

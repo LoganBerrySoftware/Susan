@@ -1,0 +1,11 @@
+ambulance
+nhs
+doctor
+siren
+medic
+nurse
+blood
+bleed
+cut
+hurt
+harm

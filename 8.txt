@@ -1,0 +1,7 @@
+book
+nerd
+read
+write
+paper
+geek
+libary

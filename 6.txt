@@ -1,0 +1,7 @@
+bird
+fly
+animal
+cloud
+pigeon
+eagle
+flap

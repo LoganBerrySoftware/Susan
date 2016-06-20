@@ -11,6 +11,13 @@ Susan was look for key words that you type in and, if the user's input contains 
 #How you can contribute
 Feel free to modify Susan's code and upload your new and improved version to this repository by creating a a new branch. You can either fix a bug, add a new feature or add words and phrases to Susan's database.
 
+#End Goal
+The end goal of Susan V2 is to create a 'baby' AI which is ran on a Raspberry Pi built in a robot-like enclosure. It will:
+- Run on start-up
+- Have a realistic voice
+- Support enough words to have a proper conversation
+- Have multiple outputs for each input
+
 #Credit
 - Everything (so far) made by Logan Miller. Check out more of my projects at http://loganberry.pe.hu
 - Voice from http://www.acapela-group.com/

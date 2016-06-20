@@ -1,0 +1,4 @@
+apple
+fruit
+tree
+food

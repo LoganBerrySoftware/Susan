@@ -1,0 +1,5 @@
+dog
+pet
+animal
+woof
+bark
